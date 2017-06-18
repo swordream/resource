@@ -16,4 +16,4 @@ A small set of non-identifiable information is sent to one or more of the organi
 
 ## 3.Report violations or get more information
 
-If you would like to report any violations of this policy or get more information on any app, please contact us using the Email [mailto://baisword@outlook.com](mailto://baisword@outlook.com)
+If you would like to report any violations of this policy or get more information on any app, please contact us using the Email [mailto://baisword@outlook.com](baisword@outlook.com)
