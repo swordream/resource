@@ -32,8 +32,8 @@ If you would like to report any violations of this policy or get more informatio
 
 [Microsoft](http://www.microsoft.com "Microsoft")
 
-[MathJax(http://www.mathjax.org "Mathjax")
+[MathJax](http://www.mathjax.org "Mathjax")
 
 ## 3.联系获得更多信息
 
-如果您想要报告任何违反本政策的行为，或者获取更多有关任何应用程序的信息，请使用电子邮件[mailto：//baisword@outlook.com]（baisword@outlook.com）与我们联系。
+如果您想要报告任何违反本政策的行为，或者获取更多有关任何应用程序的信息，请使用电子邮件[baisword@outlook.com]（mailto://baisword@outlook.com）与我们联系。
