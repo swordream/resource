@@ -12,7 +12,7 @@ A small set of non-identifiable information is sent to one or more of the organi
 
 [Microsoft](http://www.microsoft.com "Microsoft")
 
-[MathJax(http://www.mathjax.org "Mathjax")
+[MathJax](http://www.mathjax.org "Mathjax")
 
 ## 3.Report violations or get more information
 
