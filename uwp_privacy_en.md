@@ -11,6 +11,7 @@ This application does not collect or transmit any user's personally information.
 A small set of non-identifiable information is sent to one or more of the organisations below for statistical information about app usage, device type and capabilities. Statistical service providers:
 
 [http://www.microsoft.com](http://www.microsoft.com "microsoft")
+
 [http://www.mathjax.org](http://www.mathjax.org "mathjax")
 
 ## 3.Report violations or get more information
